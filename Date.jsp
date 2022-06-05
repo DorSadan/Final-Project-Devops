@@ -4,7 +4,7 @@
   </head>
   <body>
   
-    <h1>Devops 4 ever!</h1>
+    <h1>Devops 4 Ever!</h1>
     <p>Date/Time: <span id="datetime"></span></p>
 
     <script>
