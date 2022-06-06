@@ -1,6 +1,6 @@
 <html lang="en">
    <head>
-      <title>Best recipes by Dor and Karin</title>
+      <title>Ziv ha gever</title>
       <link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css">
    </head>
    <body class="m-5">
